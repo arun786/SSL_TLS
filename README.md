@@ -29,5 +29,9 @@ RSA - is an Asymmetric key
 
 ### One Way Hash
 
-the da
+![One Way Hash](https://github.com/arun786/SSL_TLS/blob/main/src/main/resources/Screen%20Shot%202020-10-06%20at%205.58.43%20AM.png)
+
+It means that once the data is hashed, we cannot get back the data from Hash.
+
+![Hashing Mechanism](https://github.com/arun786/SSL_TLS/blob/main/src/main/resources/Screen%20Shot%202020-10-06%20at%205.56.54%20AM.png)
 
