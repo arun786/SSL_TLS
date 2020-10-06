@@ -25,3 +25,9 @@ AES - Is most secure and most modern
 
 RSA - is an Asymmetric key
 
+## HAS Function
+
+### One Way Hash
+
+the da
+
