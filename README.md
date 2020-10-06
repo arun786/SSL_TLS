@@ -43,6 +43,8 @@ Keys are optional which was used for encryption of the data. this is also helps 
 
 ## Hashing Algorithms
 
+![hashing](https://github.com/arun786/SSL_TLS/blob/main/src/main/resources/Screen%20Shot%202020-10-06%20at%207.00.27%20AM.png)
+
 ### MD5
 
 
