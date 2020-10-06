@@ -35,3 +35,6 @@ It means that once the data is hashed, we cannot get back the data from Hash.
 
 ![Hashing Mechanism](https://github.com/arun786/SSL_TLS/blob/main/src/main/resources/Screen%20Shot%202020-10-06%20at%205.56.54%20AM.png)
 
+In the above diagram, the data is hashed and along with the data, hash is sent over the wire, once it is received at the other end
+the data is again hashed and compared with the hash value, if the hash value matches with the hash data sent, it is accepted
+else the data is rejected.
