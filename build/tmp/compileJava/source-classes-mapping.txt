@@ -1,2 +1,4 @@
 com/arun/algorithm/HashingMD5.java
  com.arun.algorithm.HashingMD5
+com/arun/algorithm/HashingSHA.java
+ com.arun.algorithm.HashingSHA
