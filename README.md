@@ -25,7 +25,7 @@ AES - Is most secure and most modern
 
 RSA - is an Asymmetric key
 
-## HAS Function
+## HASH Function
 
 ### One Way Hash
 
@@ -38,3 +38,7 @@ It means that once the data is hashed, we cannot get back the data from Hash.
 In the above diagram, the data is hashed and along with the data, hash is sent over the wire, once it is received at the other end
 the data is again hashed and compared with the hash value, if the hash value matches with the hash data sent, it is accepted
 else the data is rejected.
+
+Keys are optional which was used for encryption of the data. this is also helps in authentication of the sender.
+
+## Hashing Algorithms
