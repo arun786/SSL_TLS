@@ -45,6 +45,14 @@ Keys are optional which was used for encryption of the data. this is also helps 
 
 ### MD5
 
+
+Demo on MacBook
+
+![MD5](https://github.com/arun786/SSL_TLS/blob/main/src/main/resources/Screen%20Shot%202020-10-06%20at%206.19.51%20AM.png)
+
+
+Java Code using apache common
+
     package com.arun.algorithm;
     
     import org.apache.commons.codec.digest.DigestUtils;
