@@ -110,3 +110,8 @@ Java code
         }
     
     }
+
+
+### Encryption using asymmetric keys
+
+![asymmetric](https://github.com/arun786/SSL_TLS/blob/main/src/main/resources/Screen%20Shot%202020-10-06%20at%207.20.19%20AM.png)
