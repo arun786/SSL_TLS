@@ -78,6 +78,9 @@ Java Code using apache common
 
 ### sha
 
+Demo on Mac
+
+![sha](https://github.com/arun786/SSL_TLS/blob/main/src/main/resources/Screen%20Shot%202020-10-06%20at%206.44.40%20AM.png)
 
 Java code
 
