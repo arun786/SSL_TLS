@@ -167,3 +167,27 @@ Private Key kept secret.
 ![Certificate](https://github.com/arun786/SSL_TLS/blob/main/src/main/resources/Screen%20Shot%202020-10-06%20at%2011.54.04%20PM.png)
 
 
+### OpenSSL
+
+#### commands used for generating private key on mac
+
+$ openssl genrsa
+
+this will generate a private key
+ 
+#### To encrypt with aes256
+ 
+$ openssl genrsa -aes256
+ 
+ this will prompt for password, once you enter password, it will generate encrypted private key
+ 
+#### to generate a private key with aes256 in a file
+
+$ openssl genrsa -aes256 -out private.pem
+
+#### to generate pulbic key from private key
+
+$ openssl rsa -in private.pem -outform PEM -pubout PEM -out public.pem
+
+Note: you have to use the same password which was used for generating the private key.
+ 
