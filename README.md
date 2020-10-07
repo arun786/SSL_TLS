@@ -145,3 +145,25 @@ step 3 : compares the hash with the decrypted hash
 ### RSA
 
 ![RSA](https://github.com/arun786/SSL_TLS/blob/main/src/main/resources/Screen%20Shot%202020-10-06%20at%2011.27.23%20PM.png)
+
+RSA is asymmetric key encryption algorithm.
+
+It will have the same length of public key and private key.
+
+### PKI
+
+
+
+### Certificate
+
+If certificate signed by CA(Certificate Authority) we trust CA - we trust the owner of the certificate
+
+Self signed Certificate is certificate issued and signed by the owner, signature made by the private key owner.
+
+The most important part of the certificate is the Public key
+
+Private Key kept secret.
+
+
+
+
