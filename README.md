@@ -128,12 +128,15 @@ It's a two step process for both Owner of the data and Receiver of the data
 Owner 
 
 step 1 : Owner hashes the data using hash function
+
 step 2 : Owner encrypts the hash using private key
 
 Receiver
 
 step 1 : Receiver decrypts the data using public key
+
 step 2 : uses the same hash algo as the owner to hash the data
+
 step 3 : compares the hash with the decrypted hash
 
 ![asymmetric](https://github.com/arun786/SSL_TLS/blob/main/src/main/resources/Screen%20Shot%202020-10-06%20at%203.49.54%20PM.png)
