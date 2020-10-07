@@ -152,7 +152,7 @@ It will have the same length of public key and private key.
 
 ### PKI
 
-
+![PKI](https://github.com/arun786/SSL_TLS/blob/main/src/main/resources/Screen%20Shot%202020-10-06%20at%2011.40.35%20PM.png)
 
 ### Certificate
 
@@ -164,6 +164,6 @@ The most important part of the certificate is the Public key
 
 Private Key kept secret.
 
-
+![Certificate](https://github.com/arun786/SSL_TLS/blob/main/src/main/resources/Screen%20Shot%202020-10-06%20at%2011.54.04%20PM.png)
 
 
