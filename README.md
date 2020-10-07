@@ -140,3 +140,8 @@ step 2 : uses the same hash algo as the owner to hash the data
 step 3 : compares the hash with the decrypted hash
 
 ![asymmetric](https://github.com/arun786/SSL_TLS/blob/main/src/main/resources/Screen%20Shot%202020-10-06%20at%203.49.54%20PM.png)
+
+
+### RSA
+
+![RSA](https://github.com/arun786/SSL_TLS/blob/main/src/main/resources/Screen%20Shot%202020-10-06%20at%2011.27.23%20PM.png)
