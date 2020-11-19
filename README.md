@@ -194,7 +194,7 @@ $ openssl genrsa -aes256 -out private.pem
 
 #### to generate pulbic key from private key
 
-$ openssl rsa -in private.pem -outform PEM -pubout PEM -out public.pem
+$ openssl rsa -in private.pem -outform PEM -pubout -out public.pem
 
 Note: you have to use the same password which was used for generating the private key.
  
