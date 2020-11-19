@@ -124,8 +124,11 @@ Sender will send the data by encrypting data with the public key.
 
 Owner will decrypt the data using the private key.
 
-#### Sign and verify signature using asymmetric keys
+#### Signing data using asymmetric keys
 
+Sign and verify signature using asymmetric keys
+
+![asymmetric](https://github.com/arun786/SSL_TLS/blob/main/src/main/resources/Screen%20Shot%202020-10-06%20at%203.49.54%20PM.png)
 
 It's a two step process for both Owner of the data and Receiver of the data
 
@@ -143,7 +146,7 @@ step 2 : uses the same hash algo as the owner to hash the data
 
 step 3 : compares the hash with the decrypted hash
 
-![asymmetric](https://github.com/arun786/SSL_TLS/blob/main/src/main/resources/Screen%20Shot%202020-10-06%20at%203.49.54%20PM.png)
+
 
 
 ### RSA
