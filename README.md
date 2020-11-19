@@ -118,7 +118,11 @@ Java code
 
 Owner will have both the private and the public key.
 
-Sender will send the data by encrypting data with the public key. Owner will decrypt the data using the private key.
+Sender will have the public key which will be shared by the owner.
+
+Sender will send the data by encrypting data with the public key. 
+
+Owner will decrypt the data using the private key.
 
 #### Sign and verify signature using asymmetric keys
 
@@ -191,3 +195,9 @@ $ openssl rsa -in private.pem -outform PEM -pubout PEM -out public.pem
 
 Note: you have to use the same password which was used for generating the private key.
  
+ 
+RSA is not used for data encryption because
+
+1. RSA is very slow
+2. Bi-directional data encryption requires both private and public key on 
+both sides. i.e. Owner and sender
